@@ -1,23 +1,11 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.
+title: Team Dash
+subtitle: A place for the iFit Dashboard Team to have fun with coding challenges and making fun stuff.
 layout: layouts/base.njk
 ---
 
 
-## This site is a starting point
-
-From this point we should already have:
-
-- [Eleventy](https://11ty.io) with a skeleton site
-- A date format filter for Nunjucks
-- A tiny inline Sass pipeline
-- A tiny inline JS pipeline. (<a href="#" class="btn-log">Test a console.log message</a>)
-- JS [search index](/search.json) generator
-- Serverless (FaaS) development pipeline with Netlify Functions for Lambda
-
-
-## Post pages
+## Challenges
 
 The pages found in in the posts
 
@@ -30,7 +18,7 @@ The pages found in in the posts
 {%- endfor -%}
 </ul>
 
-## Links from an external data source
+<!-- ## Links from an external data source
 
 These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.json) at build time.
 
@@ -40,10 +28,10 @@ These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.jso
     <a href="{{ item.link }}">{{ item.title }}</a>
   </li>
 {%- endfor -%}
-</ul>
+</ul> -->
 
 
-The data can be stashed locally by running:
+<!-- The data can be stashed locally by running:
 
 ```
 yarn run seed
@@ -56,4 +44,4 @@ yarn start
 ```
 
 
-
+ -->

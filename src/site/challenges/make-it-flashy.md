@@ -17,3 +17,7 @@ Get something working.  Make it flashier.  Make it more flashier.
   2) You can use any libraries or packages or other peoples code you want
   3) If using other's code, you need to change it enough to at least feel ownership of the concept/idea of what you have put together
   
+
+### Instructions
+
+Clone this repository

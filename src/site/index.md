@@ -10,7 +10,7 @@ layout: layouts/base.njk
 The pages found in in the posts
 
 <ul class="listing">
-{%- for page in collections.post -%}
+{%- for page in collections.challenges -%}
   <li>
     <a href="{{ page.url }}">{{ page.data.title }}</a> -
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLL d, y") }}</time>

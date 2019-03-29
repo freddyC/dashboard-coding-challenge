@@ -1,8 +1,8 @@
 {
-  "name": "EleventyOne",
+  "name": "Dashboard Coding Competitions",
   "version": "2.0.0",
-  "description": "A project bootstrap for Eleventy sites. With pipelines for Sass, Js, and Lambdas",
-  "author": "Phil Hawksworth",
+  "description": "Started from Phil Hawksworth eleventy one boot strap project",
+  "author": "Fred Christensen",
   "license": "MIT",
   "scripts": {
     "start": "yarn run dev",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/philhawksworth/eleventyone"
+    "url": "https://github.com/freddyC/dashboard-coding-challenge"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.7.1",
